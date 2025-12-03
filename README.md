@@ -1,11 +1,11 @@
-📊 Charity Donation Tracking — 2025 (Anonymized Preview Dataset)
+# 📊 Charity Donation Tracking — 2025 (Anonymized Preview Dataset)
 
 
 
 
 
 
-📌 Overview
+# 📌 Overview
 
 In 2025, I was assigned the responsibility of tracking monthly fixed-amount charity donations for a group of 200 individuals. The actual dataset spans the entire year and includes detailed contribution history for each donor.
 
@@ -15,7 +15,7 @@ No real personal data has been included.
 
 This mock dataset mirrors the structure and organization of the real records while ensuring full confidentiality.
 
-🔒 Privacy & Data Protection
+# 🔒 Privacy & Data Protection
 
 All names are artificially generated.
 
@@ -27,16 +27,16 @@ The real dataset is stored securely and not shared publicly.
 
 This repository is strictly for demonstration, documentation, and development purposes.
 
-📁 What This Repository Includes
+# 📁 What This Repository Includes
 
-donation_records_preview.xlsx
+CommunityCharity.xlsx
 A fully anonymized preview of the structure used to track fixed monthly donations across the year 2025.
 
 Consistent formatting showing how monthly entries are organized
 
 Sample structure for handling donor IDs, names, contact information, and monthly contribution log
 
-🎯 Purpose of This Repository
+# 🎯 Purpose of This Repository
 
 This preview dataset demonstrates my ability to:
 
@@ -48,7 +48,7 @@ Organize information cleanly for year-long tracking
 
 Work responsibly with sensitive data through anonymization
 
-🛡️ Disclaimer
+# 🛡️ Disclaimer
 
 This dataset is entirely fictional and should be treated as sample data only.
 All identifying information has been intentionally fabricated.
